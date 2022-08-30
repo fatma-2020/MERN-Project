@@ -1,0 +1,21 @@
+h3 {
+    color: #434141;
+    font-family: "Raleway", sans-serif;
+    font-size: 25px;
+    font-weight: 800;
+    line-height: 72px;
+    margin: 0 0 24px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  h5 {
+    color: #434141;
+    font-family: "Raleway", sans-serif;
+    font-size: 15px;
+    font-weight: 800;
+    line-height: 72px;
+    margin: 0 0 24px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+  

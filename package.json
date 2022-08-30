@@ -1,0 +1,25 @@
+{
+  "name": "ws_mern",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "front":"cd front && npm start",
+    "backend":"cd backend && npm run back",
+    "dev": "concurrently \"npm run front\" \"npm run backend\""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com"
+  },
+  "homepage": "https://githu",
+  "dependencies": {
+    "concurrently": "^7.2.2"
+  }
+}
